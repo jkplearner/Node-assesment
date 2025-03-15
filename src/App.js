@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import Report from "./Components/Report";
 import ShowDisaster from "./Components/ShowDisaster";
+import './App.css'; // Import the CSS file
 
 function App() {
   return (

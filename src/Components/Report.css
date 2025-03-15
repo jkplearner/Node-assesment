@@ -1,0 +1,12 @@
+form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  form input {
+    width: 100%;
+  }
+  
+  form button {
+    width: 100%;
+  }
